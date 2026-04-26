@@ -1,7 +1,7 @@
 class Ktsim < Formula
   desc "..."
   homepage "https://github.com/darylturner/ktsim"
-  version "v0.3.5"
+  version "0.3.5"
 
   on_macos do
     on_arm do
