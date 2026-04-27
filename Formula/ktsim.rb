@@ -1,5 +1,5 @@
 class Ktsim < Formula
-  desc "..."
+  desc "Monte Carlo dice simulator for Kill Team attack rolls."
   homepage "https://github.com/darylturner/ktsim"
   version "0.3.5"
 
